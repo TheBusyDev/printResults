@@ -1,12 +1,12 @@
 function printResults (fileName, val)
     % syntax: printResults (fileName, val)
     %
-    % Print text both on .txt, .xlsx files and on command prompt.
+    % Print text on both .txt, .xlsx files and on command prompt.
     % In .xlsx files, data are stored in the first sheet. Other sheets are not changed.
     %
     % 'fileName' must contain the name of the file where you want to store data.
     %
-    % 'val' must be a 2-column string matrix:
+    % 'val' must be a 2-column matrix:
     % the first column contains text, 
     % the second column contains numerical values.
     % Different groups of data must be separated by "#".
