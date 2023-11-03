@@ -11,7 +11,7 @@ A useful MATLAB function to store data on .xslx and .txt file. Features:
   the first column contains text,\
   the second column contains numerical values.\
   Different groups of data must be separated by "#". Example:
-```text
+```MATLAB
   val = [
       "#" "#"
       "Diameter" 50
