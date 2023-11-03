@@ -1,10 +1,10 @@
 # printResults
 A useful MATLAB function to store data on .xslx and .txt file. Features:
 * syntax:
-  ```code
+  ```MATLAB
   printResults (fileName, val)
   ```
-* Print text both on __.txt__, __.xlsx__ files and on __command prompt__.
+* Print text on both __.txt__, __.xlsx__ files and on __command prompt__.
 * In .xlsx files, data are stored in the __first sheet__. Other sheets are not changed.
 * __'fileName'__ must contain the name of the file where you want to store data.
 * __'val'__ must be a *2-column matrix*:\
