@@ -1,5 +1,5 @@
 # printResults
-A useful MATLAB code to store data on .xslx and .txt file. Features:
+A useful MATLAB function to store data on .xslx and .txt file. Features:
 * syntax:
   ```code
   printResults (fileName, val)
